@@ -36,4 +36,4 @@
 | **Month 7-8**    | Final Placement Push                                | - Apply for 30LPA+ opportunities.                                                                                               | - LinkedIn, AngelList, and job portals                                                       | 🟢 Apply for 20+ companies                                                    |
 |                  |                                                     | - Ace interviews with a focus on coding, system design, and behavioral questions.                                               | - Pramp and Interviewing.io                                                                   | 🟢 Secure placement offers                                                    |
 
---- 
+---
